@@ -12,7 +12,7 @@
 ### Demo:
 <br>
 <div align="center">
-<img src="https://github.com/wlit0910/strona-catering/blob/main/demo.gif" width="600">
+<img src="https://github.com/wlit0910/strona-catering/blob/main/demo.gif" width="1000">
 <br>
 </div>
 <br><br>
